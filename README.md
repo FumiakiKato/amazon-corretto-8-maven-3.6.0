@@ -1,0 +1,1 @@
+# amazon-corretto-8-maven-3.6.0
